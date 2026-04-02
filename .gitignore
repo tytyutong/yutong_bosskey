@@ -12,6 +12,9 @@
 # Logs
 *.log
 
+# Local app outputs (keep local, don't upload)
+软件/
+
 # OS files
 Thumbs.db
 Desktop.ini

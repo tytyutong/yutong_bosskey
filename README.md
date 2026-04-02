@@ -38,3 +38,5 @@ dotnet build "源码\BossKeyReborn\BossKeyReborn.csproj" -c Debug -o "软件"
 ## 说明
 
 本仓库当前仅保留软件相关源码与运行文件，已清理无关目录与临时文件。
+
+当前仓库已配置 GitHub 远程：`origin -> tytyutong/yutong_bosskey`。
